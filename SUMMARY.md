@@ -4,5 +4,5 @@
     * [登录](basic/login.md)  
     * [修改个人信息](basic/profile.md) 
     
-* [小票审]()
-	* [12312](basic/xiaopiaoliebiao.md)
+* [小票审核](receipt/receipt.md)
+	* [12312](receipt/receipt_list.md)
