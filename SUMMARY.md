@@ -2,5 +2,5 @@
 
 * [基础](basic.md)
     * [登录](basic/login.md)  
-    * [修改个人信息](basic/profile.md)  
+    * [修改个人信息](basic/profile.md) 
 
